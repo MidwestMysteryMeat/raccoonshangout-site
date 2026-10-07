@@ -27,5 +27,5 @@ Vanilla PvE Project Zomboid (Build 42) server.
 | XP | 2.5x, **5x on weekends** (Sat-Sun) |
 | Starter kit | Yes, plus a flashlight |
 | Map | Fully revealed |
-| Safehouses | Keep yours by visiting at least every 7 days |
+| Safehouses | Keep yours by visiting at least every 14 days |
 | Community hub | West Point |

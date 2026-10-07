@@ -10,7 +10,7 @@ title: "Rules"
 
 4. **Don't take what isn't yours.** That includes cars parked at someone's base and anything sitting outside their walls. If you're not sure, leave it.
 
-5. **One safehouse per person.** Alts count as the same person. Visit it at least once every 7 days or you lose the claim, and the building resets.
+5. **One safehouse per person.** Alts count as the same person. Visit it at least once every 14 days or you lose the claim, and the building resets.
 
 6. **Non-residential bases need an admin's OK first.** No claiming gun stores, police stations or other big loot spots everyone needs.
 
