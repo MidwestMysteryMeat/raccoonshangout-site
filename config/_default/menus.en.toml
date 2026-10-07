@@ -1,0 +1,31 @@
+# Header menu, in order
+[[main]]
+  name = "Join"
+  pageRef = "join"
+  weight = 10
+
+[[main]]
+  name = "Rules"
+  pageRef = "rules"
+  weight = 20
+
+[[main]]
+  name = "Settings"
+  pageRef = "settings"
+  weight = 30
+
+[[main]]
+  name = "Leaderboard"
+  pageRef = "leaderboard"
+  weight = 40
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 50
+
+[[main]]
+  identifier = "discord"
+  pre = "discord"
+  url = "https://discord.gg/raccoonshangout"
+  weight = 60
